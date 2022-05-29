@@ -1,0 +1,30 @@
+------------------   At time 1 we had the following sales from the inventory  ---------------------- 
+Whe sold  2 BTC of the BTC bought at time 0 at a price of 6500.
+           
+---------------The invetory resume for this period----------------- 
+The initial BTC inventory is 4. We sold a total of 2 BTC, the cost for adquiring the sold BTC (COGS) is 10000. The profit generated in this period is 3000 
+------------------   At time 2 we had the following sales from the inventory  ---------------------- 
+Whe sold  1 BTC of the BTC bought at time 0 at a price of 7000.
+           
+---------------The invetory resume for this period----------------- 
+The initial BTC inventory is 2. We sold a total of 1 BTC, the cost for adquiring the sold BTC (COGS) is 5000. The profit generated in this period is 2000 
+------------------   At time 4 we had the following sales from the inventory  ---------------------- 
+Whe sold  3 BTC of the BTC bought at time 3 at a price of 8000.
+           
+---------------The invetory resume for this period----------------- 
+The initial BTC inventory is 6. We sold a total of 3 BTC, the cost for adquiring the sold BTC (COGS) is 18000. The profit generated in this period is 6000 
+------------------   At time 7 we had the following sales from the inventory  ---------------------- 
+Whe sold  2 BTC of the BTC bought at time 6 at a price of 5200.
+           
+---------------The invetory resume for this period----------------- 
+The initial BTC inventory is 6.5. We sold a total of 2 BTC, the cost for adquiring the sold BTC (COGS) is 13000. The profit generated in this period is -2600 
+------------------   At time 10 we had the following sales from the inventory  ---------------------- 
+Whe sold  1 BTC of the BTC bought at time 9 at a price of 9000.
+           
+Whe sold  4.6 BTC of the BTC bought at time 8 at a price of 9000.
+           
+---------------The invetory resume for this period----------------- 
+The initial BTC inventory is 10.5. We sold a total of 5.6 BTC, the cost for adquiring the sold BTC (COGS) is 27200. The profit generated in this period is 23200 
+---------------TOTAL INVENTORY RESUME ----------------- 
+The the total COGS  is   73200.
+The total Profit taking into acount at wich price we sold each BTC is 31600
